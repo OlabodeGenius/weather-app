@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from geopy.geocoders import Nominatim
 
 # Replace 'your_api_key' with your actual OpenWeatherMap API key
-API_KEY = "2d7f5ef45be03d457709f3557a11a629"
+API_KEY = "your api key"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
