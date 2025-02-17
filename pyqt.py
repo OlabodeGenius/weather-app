@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdi
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
 
-API_KEY = "2d7f5ef45be03d457709f3557a11a629"
+API_KEY = "your api key"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 class WeatherApp(QWidget):
