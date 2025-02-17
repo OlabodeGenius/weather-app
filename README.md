@@ -176,15 +176,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather API.
 - Inspired by modern web design trends and interactive UI/UX principles.
 
----
-
-## 📞 Contact
-
-For questions or feedback, feel free to reach out:
-
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Email**: your.email@example.com
-
----
-
-Feel free to customize this README further to suit your project's specific needs. Let me know if you'd like help adding more sections or refining any part of it! 🚀
