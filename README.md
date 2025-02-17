@@ -1,5 +1,3 @@
-Below is a **powerful and professional README file** for your weather app project. It includes sections like project description, features, installation instructions, usage, API integration, deployment, and contribution guidelines. You can copy this into a `README.md` file in the root of your project.
-
 ---
 
 # 🌦️ Weather App
